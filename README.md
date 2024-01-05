@@ -15,14 +15,7 @@ A CBZ packer for mangaforfree dot net
     <h1>Setup :sweat_drops:</h1>
 </div>
 
-## Install requirements
-
-- A fresh installed Arch system: minimal profile, Pipewire, "git" only as additional package, the installation scripts will take care of the rest.
-
-> **Note**
-> You need to place the ttf fonts under assets/ some fonts will be installed via yay but others won't. if you do not want to brake the look after reboot you will need at least:  https://github.com/1amSimp1e/fonts/blob/master/CascadiaMono.zip
-
-For additional fonts have a look at: [fonts](https://github.com/iamverysimp1e/fonts)
+## Setup
 
   ```zsh
   
