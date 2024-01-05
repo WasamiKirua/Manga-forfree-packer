@@ -7,7 +7,7 @@ A CBZ packer for mangaforfree dot net
 
 <div align="center">
 
-![Preview 1.1](images/folders.png)
+![Preview 1.1](manga.png)
 
 </div>
 
