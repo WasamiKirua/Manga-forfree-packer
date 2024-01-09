@@ -38,8 +38,7 @@ python main.py
 
 ### Notes
 
-Depending from the amount of chapters, the script might takes a few minutes to finish. with respect in mind of the website and others, 
-the script executes calls after a specified amount of time, please be respectful and enjoy your reading also offline.
+Depending on the number of chapters, the script may take a few minutes to complete. Out of respect for the website and other users, the script is designed to execute calls at specified intervals. Please be considerate and enjoy your reading experience. CBZ files will be accessible in a subfolder titled 'CBZ_files'.
 
 ### Credits
 
